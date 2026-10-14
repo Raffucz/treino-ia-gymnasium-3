@@ -1,0 +1,7 @@
+# Cache do Python e configurações do VS Code
+__pycache__/
+.vscode/
+
+# Modelos salvos (arquivos do agente treinado)
+*.zip
+modelo_ppo_visao*
